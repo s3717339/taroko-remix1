@@ -1,7 +1,7 @@
-A simple digital poem
+I'll be Home Late, Love you.
 =====================
 
-A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+Creative experiment used from the one constructed in class, similar to Taroko Gorge. 
 
 
 
